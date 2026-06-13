@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-git clone git@github.com:你的用户名/food-recommend-skill.git ~/.claude/skills/food-recommend
+git clone git@github.com:songleo/food-recommend-skill.git ~/.claude/skills/food-recommend
 ```
 
 重启 Claude Code 即可生效。
