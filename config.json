@@ -45,6 +45,12 @@
         "name": "楼下驴蹄子店烤肉",
         "reason": "新鲜和性价比高，烤茄子很不错！"
       }
+    ],
+    "黄焖鸡": [
+      {
+        "name": "黄焖鸡",
+        "reason": "米饭好吃"
+      }
     ]
   },
   "daily_promotions": {
@@ -53,5 +59,10 @@
       "promotion": "每周三半价"
     }
   },
-  "blacklist": ["考拉农场", "姜胖胖"]
+  "blacklist": ["考拉农场", "姜胖胖"],
+  "time_restrictions": {
+    "中午": {
+      "exclude_categories": ["烤肉"]
+    }
+  }
 }
